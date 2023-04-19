@@ -13,7 +13,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['scipy', 'scikit-learn', 'numpy', 'matplotlib', 'Tkinter', 'xlsxwriter'],
+    install_requires=['scipy', 'scikit-learn', 'numpy', 'matplotlib', 'tkinter', 'xlsxwriter'],
     keywords=['python', 'ML', 'database', 'biology'],
     classifiers=[
         "Development Status :: 3 - Alpha",
